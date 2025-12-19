@@ -1,5 +1,3 @@
 google.com, pub-1079708229184101, DIRECT, f08c47fec0942fa0
 facebook.com, 2644938812291787, DIRECT, c3e20eee3f780d68
-
-# Unity Ads (Using your Org ID from screenshot)
 unity3d.com, 13469871337513, DIRECT, cbc832d20353c713
